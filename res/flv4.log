@@ -1,0 +1,2055 @@
+FLV file version 1
+  Contains audio tags: Yes
+  Contains video tags: No
+  Data offset: 9
+current: 9
+Prev tag size: 0
+Tag type: 18 - Script data object
+  Data size: 268
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+data size: 268
+current: 292
+Prev tag size: 279
+Tag type: 8 - Audio data
+  Data size: 4
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 4
+current: 311
+Prev tag size: 15
+Tag type: 8 - Audio data
+  Data size: 155
+  Timestamp: 64
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 155
+current: 481
+Prev tag size: 166
+Tag type: 8 - Audio data
+  Data size: 155
+  Timestamp: 128
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 155
+current: 651
+Prev tag size: 166
+Tag type: 8 - Audio data
+  Data size: 193
+  Timestamp: 192
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 193
+current: 859
+Prev tag size: 204
+Tag type: 8 - Audio data
+  Data size: 214
+  Timestamp: 256
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 214
+current: 1088
+Prev tag size: 225
+Tag type: 8 - Audio data
+  Data size: 199
+  Timestamp: 320
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 199
+current: 1302
+Prev tag size: 210
+Tag type: 8 - Audio data
+  Data size: 184
+  Timestamp: 384
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 184
+current: 1501
+Prev tag size: 195
+Tag type: 8 - Audio data
+  Data size: 199
+  Timestamp: 448
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 199
+current: 1715
+Prev tag size: 210
+Tag type: 8 - Audio data
+  Data size: 182
+  Timestamp: 512
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 182
+current: 1912
+Prev tag size: 193
+Tag type: 8 - Audio data
+  Data size: 172
+  Timestamp: 576
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 172
+current: 2099
+Prev tag size: 183
+Tag type: 8 - Audio data
+  Data size: 174
+  Timestamp: 640
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 174
+current: 2288
+Prev tag size: 185
+Tag type: 8 - Audio data
+  Data size: 177
+  Timestamp: 704
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 177
+current: 2480
+Prev tag size: 188
+Tag type: 8 - Audio data
+  Data size: 179
+  Timestamp: 768
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 179
+current: 2674
+Prev tag size: 190
+Tag type: 8 - Audio data
+  Data size: 156
+  Timestamp: 832
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 156
+current: 2845
+Prev tag size: 167
+Tag type: 8 - Audio data
+  Data size: 143
+  Timestamp: 896
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 143
+current: 3003
+Prev tag size: 154
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 960
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 3155
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 1024
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 3314
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 131
+  Timestamp: 1088
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 131
+current: 3460
+Prev tag size: 142
+Tag type: 8 - Audio data
+  Data size: 122
+  Timestamp: 1152
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 122
+current: 3597
+Prev tag size: 133
+Tag type: 8 - Audio data
+  Data size: 231
+  Timestamp: 1216
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 231
+current: 3843
+Prev tag size: 242
+Tag type: 8 - Audio data
+  Data size: 223
+  Timestamp: 1280
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 223
+current: 4081
+Prev tag size: 234
+Tag type: 8 - Audio data
+  Data size: 149
+  Timestamp: 1344
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 149
+current: 4245
+Prev tag size: 160
+Tag type: 8 - Audio data
+  Data size: 160
+  Timestamp: 1408
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 160
+current: 4420
+Prev tag size: 171
+Tag type: 8 - Audio data
+  Data size: 150
+  Timestamp: 1472
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 150
+current: 4585
+Prev tag size: 161
+Tag type: 8 - Audio data
+  Data size: 141
+  Timestamp: 1536
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 141
+current: 4741
+Prev tag size: 152
+Tag type: 8 - Audio data
+  Data size: 156
+  Timestamp: 1600
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 156
+current: 4912
+Prev tag size: 167
+Tag type: 8 - Audio data
+  Data size: 161
+  Timestamp: 1664
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 161
+current: 5088
+Prev tag size: 172
+Tag type: 8 - Audio data
+  Data size: 135
+  Timestamp: 1728
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 135
+current: 5238
+Prev tag size: 146
+Tag type: 8 - Audio data
+  Data size: 127
+  Timestamp: 1792
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 127
+current: 5380
+Prev tag size: 138
+Tag type: 8 - Audio data
+  Data size: 136
+  Timestamp: 1856
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 136
+current: 5531
+Prev tag size: 147
+Tag type: 8 - Audio data
+  Data size: 146
+  Timestamp: 1920
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 146
+current: 5692
+Prev tag size: 157
+Tag type: 8 - Audio data
+  Data size: 128
+  Timestamp: 1984
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 128
+current: 5835
+Prev tag size: 139
+Tag type: 8 - Audio data
+  Data size: 160
+  Timestamp: 2048
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 160
+current: 6010
+Prev tag size: 171
+Tag type: 8 - Audio data
+  Data size: 134
+  Timestamp: 2112
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 134
+current: 6159
+Prev tag size: 145
+Tag type: 8 - Audio data
+  Data size: 152
+  Timestamp: 2176
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 152
+current: 6326
+Prev tag size: 163
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 2240
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 6485
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 177
+  Timestamp: 2304
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 177
+current: 6677
+Prev tag size: 188
+Tag type: 8 - Audio data
+  Data size: 170
+  Timestamp: 2368
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 170
+current: 6862
+Prev tag size: 181
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 2432
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 7014
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 2496
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 7166
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 132
+  Timestamp: 2560
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 132
+current: 7313
+Prev tag size: 143
+Tag type: 8 - Audio data
+  Data size: 165
+  Timestamp: 2624
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 165
+current: 7493
+Prev tag size: 176
+Tag type: 8 - Audio data
+  Data size: 181
+  Timestamp: 2688
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 181
+current: 7689
+Prev tag size: 192
+Tag type: 8 - Audio data
+  Data size: 160
+  Timestamp: 2752
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 160
+current: 7864
+Prev tag size: 171
+Tag type: 8 - Audio data
+  Data size: 141
+  Timestamp: 2816
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 141
+current: 8020
+Prev tag size: 152
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 2880
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 8173
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 189
+  Timestamp: 2944
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 189
+current: 8377
+Prev tag size: 200
+Tag type: 8 - Audio data
+  Data size: 149
+  Timestamp: 3008
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 149
+current: 8541
+Prev tag size: 160
+Tag type: 8 - Audio data
+  Data size: 151
+  Timestamp: 3072
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 151
+current: 8707
+Prev tag size: 162
+Tag type: 8 - Audio data
+  Data size: 145
+  Timestamp: 3136
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 145
+current: 8867
+Prev tag size: 156
+Tag type: 8 - Audio data
+  Data size: 145
+  Timestamp: 3200
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 145
+current: 9027
+Prev tag size: 156
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 3264
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 9180
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 147
+  Timestamp: 3328
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 147
+current: 9342
+Prev tag size: 158
+Tag type: 8 - Audio data
+  Data size: 180
+  Timestamp: 3392
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 180
+current: 9537
+Prev tag size: 191
+Tag type: 8 - Audio data
+  Data size: 154
+  Timestamp: 3456
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 154
+current: 9706
+Prev tag size: 165
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 3520
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 9865
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 140
+  Timestamp: 3584
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 140
+current: 10020
+Prev tag size: 151
+Tag type: 8 - Audio data
+  Data size: 150
+  Timestamp: 3648
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 150
+current: 10185
+Prev tag size: 161
+Tag type: 8 - Audio data
+  Data size: 187
+  Timestamp: 3712
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 187
+current: 10387
+Prev tag size: 198
+Tag type: 8 - Audio data
+  Data size: 165
+  Timestamp: 3776
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 165
+current: 10567
+Prev tag size: 176
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 3840
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 10719
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 3904
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 10872
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 140
+  Timestamp: 3968
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 140
+current: 11027
+Prev tag size: 151
+Tag type: 8 - Audio data
+  Data size: 131
+  Timestamp: 4032
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 131
+current: 11173
+Prev tag size: 142
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 4096
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 11326
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 145
+  Timestamp: 4160
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 145
+current: 11486
+Prev tag size: 156
+Tag type: 8 - Audio data
+  Data size: 148
+  Timestamp: 4224
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 148
+current: 11649
+Prev tag size: 159
+Tag type: 8 - Audio data
+  Data size: 196
+  Timestamp: 4288
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 196
+current: 11860
+Prev tag size: 207
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 4352
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 12019
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 129
+  Timestamp: 4416
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 129
+current: 12163
+Prev tag size: 140
+Tag type: 8 - Audio data
+  Data size: 211
+  Timestamp: 4480
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 211
+current: 12389
+Prev tag size: 222
+Tag type: 8 - Audio data
+  Data size: 237
+  Timestamp: 4544
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 237
+current: 12641
+Prev tag size: 248
+Tag type: 8 - Audio data
+  Data size: 244
+  Timestamp: 4608
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 244
+current: 12900
+Prev tag size: 255
+Tag type: 8 - Audio data
+  Data size: 117
+  Timestamp: 4672
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 117
+current: 13032
+Prev tag size: 128
+Tag type: 8 - Audio data
+  Data size: 168
+  Timestamp: 4736
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 168
+current: 13215
+Prev tag size: 179
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 4800
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 13367
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 134
+  Timestamp: 4864
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 134
+current: 13516
+Prev tag size: 145
+Tag type: 8 - Audio data
+  Data size: 154
+  Timestamp: 4928
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 154
+current: 13685
+Prev tag size: 165
+Tag type: 8 - Audio data
+  Data size: 140
+  Timestamp: 4992
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 140
+current: 13840
+Prev tag size: 151
+Tag type: 8 - Audio data
+  Data size: 155
+  Timestamp: 5056
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 155
+current: 14010
+Prev tag size: 166
+Tag type: 8 - Audio data
+  Data size: 155
+  Timestamp: 5120
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 155
+current: 14180
+Prev tag size: 166
+Tag type: 8 - Audio data
+  Data size: 193
+  Timestamp: 5184
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 193
+current: 14388
+Prev tag size: 204
+Tag type: 8 - Audio data
+  Data size: 214
+  Timestamp: 5248
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 214
+current: 14617
+Prev tag size: 225
+Tag type: 8 - Audio data
+  Data size: 199
+  Timestamp: 5312
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 199
+current: 14831
+Prev tag size: 210
+Tag type: 8 - Audio data
+  Data size: 184
+  Timestamp: 5376
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 184
+current: 15030
+Prev tag size: 195
+Tag type: 8 - Audio data
+  Data size: 199
+  Timestamp: 5440
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 199
+current: 15244
+Prev tag size: 210
+Tag type: 8 - Audio data
+  Data size: 182
+  Timestamp: 5504
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 182
+current: 15441
+Prev tag size: 193
+Tag type: 8 - Audio data
+  Data size: 172
+  Timestamp: 5568
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 172
+current: 15628
+Prev tag size: 183
+Tag type: 8 - Audio data
+  Data size: 174
+  Timestamp: 5632
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 174
+current: 15817
+Prev tag size: 185
+Tag type: 8 - Audio data
+  Data size: 177
+  Timestamp: 5696
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 177
+current: 16009
+Prev tag size: 188
+Tag type: 8 - Audio data
+  Data size: 179
+  Timestamp: 5760
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 179
+current: 16203
+Prev tag size: 190
+Tag type: 8 - Audio data
+  Data size: 156
+  Timestamp: 5824
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 156
+current: 16374
+Prev tag size: 167
+Tag type: 8 - Audio data
+  Data size: 143
+  Timestamp: 5888
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 143
+current: 16532
+Prev tag size: 154
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 5952
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 16684
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 6016
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 16843
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 131
+  Timestamp: 6080
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 131
+current: 16989
+Prev tag size: 142
+Tag type: 8 - Audio data
+  Data size: 122
+  Timestamp: 6144
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 122
+current: 17126
+Prev tag size: 133
+Tag type: 8 - Audio data
+  Data size: 231
+  Timestamp: 6208
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 231
+current: 17372
+Prev tag size: 242
+Tag type: 8 - Audio data
+  Data size: 223
+  Timestamp: 6272
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 223
+current: 17610
+Prev tag size: 234
+Tag type: 8 - Audio data
+  Data size: 149
+  Timestamp: 6336
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 149
+current: 17774
+Prev tag size: 160
+Tag type: 8 - Audio data
+  Data size: 160
+  Timestamp: 6400
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 160
+current: 17949
+Prev tag size: 171
+Tag type: 8 - Audio data
+  Data size: 150
+  Timestamp: 6464
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 150
+current: 18114
+Prev tag size: 161
+Tag type: 8 - Audio data
+  Data size: 141
+  Timestamp: 6528
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 141
+current: 18270
+Prev tag size: 152
+Tag type: 8 - Audio data
+  Data size: 156
+  Timestamp: 6592
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 156
+current: 18441
+Prev tag size: 167
+Tag type: 8 - Audio data
+  Data size: 161
+  Timestamp: 6656
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 161
+current: 18617
+Prev tag size: 172
+Tag type: 8 - Audio data
+  Data size: 135
+  Timestamp: 6720
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 135
+current: 18767
+Prev tag size: 146
+Tag type: 8 - Audio data
+  Data size: 127
+  Timestamp: 6784
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 127
+current: 18909
+Prev tag size: 138
+Tag type: 8 - Audio data
+  Data size: 136
+  Timestamp: 6848
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 136
+current: 19060
+Prev tag size: 147
+Tag type: 8 - Audio data
+  Data size: 146
+  Timestamp: 6912
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 146
+current: 19221
+Prev tag size: 157
+Tag type: 8 - Audio data
+  Data size: 128
+  Timestamp: 6976
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 128
+current: 19364
+Prev tag size: 139
+Tag type: 8 - Audio data
+  Data size: 160
+  Timestamp: 7040
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 160
+current: 19539
+Prev tag size: 171
+Tag type: 8 - Audio data
+  Data size: 134
+  Timestamp: 7104
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 134
+current: 19688
+Prev tag size: 145
+Tag type: 8 - Audio data
+  Data size: 152
+  Timestamp: 7168
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 152
+current: 19855
+Prev tag size: 163
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 7232
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 20014
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 177
+  Timestamp: 7296
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 177
+current: 20206
+Prev tag size: 188
+Tag type: 8 - Audio data
+  Data size: 170
+  Timestamp: 7360
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 170
+current: 20391
+Prev tag size: 181
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 7424
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 20543
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 7488
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 20695
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 132
+  Timestamp: 7552
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 132
+current: 20842
+Prev tag size: 143
+Tag type: 8 - Audio data
+  Data size: 165
+  Timestamp: 7616
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 165
+current: 21022
+Prev tag size: 176
+Tag type: 8 - Audio data
+  Data size: 181
+  Timestamp: 7680
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 181
+current: 21218
+Prev tag size: 192
+Tag type: 8 - Audio data
+  Data size: 160
+  Timestamp: 7744
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 160
+current: 21393
+Prev tag size: 171
+Tag type: 8 - Audio data
+  Data size: 141
+  Timestamp: 7808
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 141
+current: 21549
+Prev tag size: 152
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 7872
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 21702
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 189
+  Timestamp: 7936
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 189
+current: 21906
+Prev tag size: 200
+Tag type: 8 - Audio data
+  Data size: 149
+  Timestamp: 8000
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 149
+current: 22070
+Prev tag size: 160
+Tag type: 8 - Audio data
+  Data size: 151
+  Timestamp: 8064
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 151
+current: 22236
+Prev tag size: 162
+Tag type: 8 - Audio data
+  Data size: 145
+  Timestamp: 8128
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 145
+current: 22396
+Prev tag size: 156
+Tag type: 8 - Audio data
+  Data size: 145
+  Timestamp: 8192
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 145
+current: 22556
+Prev tag size: 156
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 8256
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 22709
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 147
+  Timestamp: 8320
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 147
+current: 22871
+Prev tag size: 158
+Tag type: 8 - Audio data
+  Data size: 180
+  Timestamp: 8384
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 180
+current: 23066
+Prev tag size: 191
+Tag type: 8 - Audio data
+  Data size: 154
+  Timestamp: 8448
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 154
+current: 23235
+Prev tag size: 165
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 8512
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 23394
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 140
+  Timestamp: 8576
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 140
+current: 23549
+Prev tag size: 151
+Tag type: 8 - Audio data
+  Data size: 150
+  Timestamp: 8640
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 150
+current: 23714
+Prev tag size: 161
+Tag type: 8 - Audio data
+  Data size: 187
+  Timestamp: 8704
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 187
+current: 23916
+Prev tag size: 198
+Tag type: 8 - Audio data
+  Data size: 165
+  Timestamp: 8768
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 165
+current: 24096
+Prev tag size: 176
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 8832
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 24248
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 8896
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 24401
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 140
+  Timestamp: 8960
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 140
+current: 24556
+Prev tag size: 151
+Tag type: 8 - Audio data
+  Data size: 131
+  Timestamp: 9024
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 131
+current: 24702
+Prev tag size: 142
+Tag type: 8 - Audio data
+  Data size: 138
+  Timestamp: 9088
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 138
+current: 24855
+Prev tag size: 149
+Tag type: 8 - Audio data
+  Data size: 145
+  Timestamp: 9152
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 145
+current: 25015
+Prev tag size: 156
+Tag type: 8 - Audio data
+  Data size: 148
+  Timestamp: 9216
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 148
+current: 25178
+Prev tag size: 159
+Tag type: 8 - Audio data
+  Data size: 196
+  Timestamp: 9280
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 196
+current: 25389
+Prev tag size: 207
+Tag type: 8 - Audio data
+  Data size: 144
+  Timestamp: 9344
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 144
+current: 25548
+Prev tag size: 155
+Tag type: 8 - Audio data
+  Data size: 129
+  Timestamp: 9408
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 129
+current: 25692
+Prev tag size: 140
+Tag type: 8 - Audio data
+  Data size: 211
+  Timestamp: 9472
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 211
+current: 25918
+Prev tag size: 222
+Tag type: 8 - Audio data
+  Data size: 237
+  Timestamp: 9536
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 237
+current: 26170
+Prev tag size: 248
+Tag type: 8 - Audio data
+  Data size: 244
+  Timestamp: 9600
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 244
+current: 26429
+Prev tag size: 255
+Tag type: 8 - Audio data
+  Data size: 117
+  Timestamp: 9664
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 117
+current: 26561
+Prev tag size: 128
+Tag type: 8 - Audio data
+  Data size: 168
+  Timestamp: 9728
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 168
+current: 26744
+Prev tag size: 179
+Tag type: 8 - Audio data
+  Data size: 137
+  Timestamp: 9792
+  Timestamp extended: 64
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 137
+current: 26896
+Prev tag size: 148
+Tag type: 8 - Audio data
+  Data size: 134
+  Timestamp: 9856
+  Timestamp extended: 128
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 134
+current: 27045
+Prev tag size: 145
+Tag type: 8 - Audio data
+  Data size: 154
+  Timestamp: 9920
+  Timestamp extended: 192
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 154
+current: 27214
+Prev tag size: 165
+Tag type: 8 - Audio data
+  Data size: 140
+  Timestamp: 9984
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 140
+current: 27369
+Finished analyzing
