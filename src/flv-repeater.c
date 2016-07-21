@@ -142,6 +142,7 @@ int flv_repeater_run() {
       assert(fwrite_4(&g_prev_tag_size) == 4);
       // 时间戳增加偏移
       tag->timestamp += g_timestamp_offset;
+      tag->timestamp_ext = tag->timestamp >> 24;
       // 保存最后一个时间戳
       g_last_timestamp = tag->timestamp;
       // 保存最后一个TAG长度
@@ -227,7 +228,7 @@ size_t flv_write_tag(flv_tag_t *tag) {
   count += fwrite_3(&tag->data_size);
   count += fwrite_3(&tag->timestamp);
   // 强制转换成uint8_t *，即是访问高8位
-  count += fwrite_1((uint8_t *)(&tag->timestamp));
+  count += fwrite_1(&tag->timestamp_ext);
   count += fwrite_3(&tag->stream_id);
   if (tag->data) {
     count += fwrite(tag->data, tag->data_size, 1, g_outfile) * tag->data_size;
