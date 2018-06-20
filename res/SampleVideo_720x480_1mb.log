@@ -1,0 +1,5779 @@
+FLV file version 1
+  Contains audio tags: Yes
+  Contains video tags: Yes
+  Data offset: 9
+current: 9
+Prev tag size: 0
+Tag type: 18 - Script data object
+  Data size: 372
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+data size: 372
+current: 396
+Prev tag size: 383
+Tag type: 9 - Video data
+  Data size: 44
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 1 - keyframe (for AVC, a seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 1 - AVC NALU
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 44
+current: 455
+Prev tag size: 55
+Tag type: 8 - Audio data
+  Data size: 4
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 4
+current: 474
+Prev tag size: 15
+Tag type: 9 - Video data
+  Data size: 66948
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 1 - keyframe (for AVC, a seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 1 - AVC NALU
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 66948
+current: 67437
+Prev tag size: 66959
+Tag type: 8 - Audio data
+  Data size: 969
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 969
+current: 68421
+Prev tag size: 980
+Tag type: 8 - Audio data
+  Data size: 1013
+  Timestamp: 21
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1013
+current: 69449
+Prev tag size: 1024
+Tag type: 9 - Video data
+  Data size: 988
+  Timestamp: 40
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 988
+current: 70452
+Prev tag size: 999
+Tag type: 8 - Audio data
+  Data size: 1028
+  Timestamp: 43
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1028
+current: 71495
+Prev tag size: 1039
+Tag type: 8 - Audio data
+  Data size: 1032
+  Timestamp: 64
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1032
+current: 72542
+Prev tag size: 1043
+Tag type: 9 - Video data
+  Data size: 1631
+  Timestamp: 80
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1631
+current: 74188
+Prev tag size: 1642
+Tag type: 8 - Audio data
+  Data size: 992
+  Timestamp: 85
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 992
+current: 75195
+Prev tag size: 1003
+Tag type: 8 - Audio data
+  Data size: 960
+  Timestamp: 107
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 960
+current: 76170
+Prev tag size: 971
+Tag type: 9 - Video data
+  Data size: 1735
+  Timestamp: 120
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1735
+current: 77920
+Prev tag size: 1746
+Tag type: 8 - Audio data
+  Data size: 975
+  Timestamp: 128
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 975
+current: 78910
+Prev tag size: 986
+Tag type: 8 - Audio data
+  Data size: 991
+  Timestamp: 149
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 991
+current: 79916
+Prev tag size: 1002
+Tag type: 9 - Video data
+  Data size: 2391
+  Timestamp: 160
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2391
+current: 82322
+Prev tag size: 2402
+Tag type: 8 - Audio data
+  Data size: 1011
+  Timestamp: 171
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1011
+current: 83348
+Prev tag size: 1022
+Tag type: 8 - Audio data
+  Data size: 1002
+  Timestamp: 192
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1002
+current: 84365
+Prev tag size: 1013
+Tag type: 9 - Video data
+  Data size: 3335
+  Timestamp: 200
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3335
+current: 87715
+Prev tag size: 3346
+Tag type: 8 - Audio data
+  Data size: 1020
+  Timestamp: 213
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1020
+current: 88750
+Prev tag size: 1031
+Tag type: 8 - Audio data
+  Data size: 993
+  Timestamp: 235
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 993
+current: 89758
+Prev tag size: 1004
+Tag type: 9 - Video data
+  Data size: 4497
+  Timestamp: 240
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4497
+current: 94270
+Prev tag size: 4508
+Tag type: 8 - Audio data
+  Data size: 1008
+  Timestamp: 256
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1008
+current: 95293
+Prev tag size: 1019
+Tag type: 8 - Audio data
+  Data size: 1014
+  Timestamp: 277
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1014
+current: 96322
+Prev tag size: 1025
+Tag type: 9 - Video data
+  Data size: 332
+  Timestamp: 280
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 332
+current: 96669
+Prev tag size: 343
+Tag type: 8 - Audio data
+  Data size: 992
+  Timestamp: 299
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 992
+current: 97676
+Prev tag size: 1003
+Tag type: 9 - Video data
+  Data size: 4290
+  Timestamp: 320
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4290
+current: 101981
+Prev tag size: 4301
+Tag type: 8 - Audio data
+  Data size: 987
+  Timestamp: 320
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 987
+current: 102983
+Prev tag size: 998
+Tag type: 8 - Audio data
+  Data size: 1031
+  Timestamp: 341
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1031
+current: 104029
+Prev tag size: 1042
+Tag type: 9 - Video data
+  Data size: 4741
+  Timestamp: 360
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4741
+current: 108785
+Prev tag size: 4752
+Tag type: 8 - Audio data
+  Data size: 1006
+  Timestamp: 363
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1006
+current: 109806
+Prev tag size: 1017
+Tag type: 8 - Audio data
+  Data size: 973
+  Timestamp: 384
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 973
+current: 110794
+Prev tag size: 984
+Tag type: 9 - Video data
+  Data size: 4768
+  Timestamp: 400
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4768
+current: 115577
+Prev tag size: 4779
+Tag type: 8 - Audio data
+  Data size: 984
+  Timestamp: 405
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 984
+current: 116576
+Prev tag size: 995
+Tag type: 8 - Audio data
+  Data size: 1048
+  Timestamp: 427
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1048
+current: 117639
+Prev tag size: 1059
+Tag type: 9 - Video data
+  Data size: 5529
+  Timestamp: 440
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5529
+current: 123183
+Prev tag size: 5540
+Tag type: 8 - Audio data
+  Data size: 1014
+  Timestamp: 448
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1014
+current: 124212
+Prev tag size: 1025
+Tag type: 8 - Audio data
+  Data size: 982
+  Timestamp: 469
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 982
+current: 125209
+Prev tag size: 993
+Tag type: 9 - Video data
+  Data size: 5850
+  Timestamp: 480
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5850
+current: 131074
+Prev tag size: 5861
+Tag type: 8 - Audio data
+  Data size: 1015
+  Timestamp: 491
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1015
+current: 132104
+Prev tag size: 1026
+Tag type: 8 - Audio data
+  Data size: 1088
+  Timestamp: 512
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1088
+current: 133207
+Prev tag size: 1099
+Tag type: 9 - Video data
+  Data size: 6049
+  Timestamp: 520
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6049
+current: 139271
+Prev tag size: 6060
+Tag type: 8 - Audio data
+  Data size: 1059
+  Timestamp: 533
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1059
+current: 140345
+Prev tag size: 1070
+Tag type: 8 - Audio data
+  Data size: 989
+  Timestamp: 555
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 989
+current: 141349
+Prev tag size: 1000
+Tag type: 9 - Video data
+  Data size: 6140
+  Timestamp: 560
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6140
+current: 147504
+Prev tag size: 6151
+Tag type: 8 - Audio data
+  Data size: 989
+  Timestamp: 576
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 989
+current: 148508
+Prev tag size: 1000
+Tag type: 8 - Audio data
+  Data size: 980
+  Timestamp: 597
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 980
+current: 149503
+Prev tag size: 991
+Tag type: 9 - Video data
+  Data size: 6260
+  Timestamp: 600
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6260
+current: 155778
+Prev tag size: 6271
+Tag type: 8 - Audio data
+  Data size: 1052
+  Timestamp: 619
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1052
+current: 156845
+Prev tag size: 1063
+Tag type: 9 - Video data
+  Data size: 5948
+  Timestamp: 640
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5948
+current: 162808
+Prev tag size: 5959
+Tag type: 8 - Audio data
+  Data size: 996
+  Timestamp: 640
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 996
+current: 163819
+Prev tag size: 1007
+Tag type: 8 - Audio data
+  Data size: 970
+  Timestamp: 661
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 970
+current: 164804
+Prev tag size: 981
+Tag type: 9 - Video data
+  Data size: 6190
+  Timestamp: 680
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6190
+current: 171009
+Prev tag size: 6201
+Tag type: 8 - Audio data
+  Data size: 981
+  Timestamp: 683
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 981
+current: 172005
+Prev tag size: 992
+Tag type: 8 - Audio data
+  Data size: 988
+  Timestamp: 704
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 988
+current: 173008
+Prev tag size: 999
+Tag type: 9 - Video data
+  Data size: 6157
+  Timestamp: 720
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6157
+current: 179180
+Prev tag size: 6168
+Tag type: 8 - Audio data
+  Data size: 1055
+  Timestamp: 725
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1055
+current: 180250
+Prev tag size: 1066
+Tag type: 8 - Audio data
+  Data size: 968
+  Timestamp: 747
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 968
+current: 181233
+Prev tag size: 979
+Tag type: 9 - Video data
+  Data size: 6636
+  Timestamp: 760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6636
+current: 187884
+Prev tag size: 6647
+Tag type: 8 - Audio data
+  Data size: 988
+  Timestamp: 768
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 988
+current: 188887
+Prev tag size: 999
+Tag type: 8 - Audio data
+  Data size: 953
+  Timestamp: 789
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 953
+current: 189855
+Prev tag size: 964
+Tag type: 9 - Video data
+  Data size: 6670
+  Timestamp: 800
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6670
+current: 196540
+Prev tag size: 6681
+Tag type: 8 - Audio data
+  Data size: 1024
+  Timestamp: 811
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1024
+current: 197579
+Prev tag size: 1035
+Tag type: 8 - Audio data
+  Data size: 985
+  Timestamp: 832
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 985
+current: 198579
+Prev tag size: 996
+Tag type: 9 - Video data
+  Data size: 7057
+  Timestamp: 840
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7057
+current: 205651
+Prev tag size: 7068
+Tag type: 8 - Audio data
+  Data size: 977
+  Timestamp: 853
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 977
+current: 206643
+Prev tag size: 988
+Tag type: 8 - Audio data
+  Data size: 970
+  Timestamp: 875
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 970
+current: 207628
+Prev tag size: 981
+Tag type: 9 - Video data
+  Data size: 7105
+  Timestamp: 880
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7105
+current: 214748
+Prev tag size: 7116
+Tag type: 8 - Audio data
+  Data size: 1020
+  Timestamp: 896
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1020
+current: 215783
+Prev tag size: 1031
+Tag type: 8 - Audio data
+  Data size: 960
+  Timestamp: 917
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 960
+current: 216758
+Prev tag size: 971
+Tag type: 9 - Video data
+  Data size: 7502
+  Timestamp: 920
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7502
+current: 224275
+Prev tag size: 7513
+Tag type: 8 - Audio data
+  Data size: 942
+  Timestamp: 939
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 942
+current: 225232
+Prev tag size: 953
+Tag type: 9 - Video data
+  Data size: 6925
+  Timestamp: 960
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6925
+current: 232172
+Prev tag size: 6936
+Tag type: 8 - Audio data
+  Data size: 944
+  Timestamp: 960
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 944
+current: 233131
+Prev tag size: 955
+Tag type: 8 - Audio data
+  Data size: 962
+  Timestamp: 981
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 962
+current: 234108
+Prev tag size: 973
+Tag type: 9 - Video data
+  Data size: 7052
+  Timestamp: 1000
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7052
+current: 241175
+Prev tag size: 7063
+Tag type: 8 - Audio data
+  Data size: 1029
+  Timestamp: 1003
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1029
+current: 242219
+Prev tag size: 1040
+Tag type: 8 - Audio data
+  Data size: 955
+  Timestamp: 1024
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 955
+current: 243189
+Prev tag size: 966
+Tag type: 9 - Video data
+  Data size: 6855
+  Timestamp: 1040
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6855
+current: 250059
+Prev tag size: 6866
+Tag type: 8 - Audio data
+  Data size: 908
+  Timestamp: 1045
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 908
+current: 250982
+Prev tag size: 919
+Tag type: 8 - Audio data
+  Data size: 884
+  Timestamp: 1067
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 884
+current: 251881
+Prev tag size: 895
+Tag type: 9 - Video data
+  Data size: 6949
+  Timestamp: 1080
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6949
+current: 258845
+Prev tag size: 6960
+Tag type: 8 - Audio data
+  Data size: 945
+  Timestamp: 1088
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 945
+current: 259805
+Prev tag size: 956
+Tag type: 8 - Audio data
+  Data size: 898
+  Timestamp: 1109
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 898
+current: 260718
+Prev tag size: 909
+Tag type: 9 - Video data
+  Data size: 7053
+  Timestamp: 1120
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7053
+current: 267786
+Prev tag size: 7064
+Tag type: 8 - Audio data
+  Data size: 903
+  Timestamp: 1131
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 903
+current: 268704
+Prev tag size: 914
+Tag type: 8 - Audio data
+  Data size: 935
+  Timestamp: 1152
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 935
+current: 269654
+Prev tag size: 946
+Tag type: 9 - Video data
+  Data size: 7326
+  Timestamp: 1160
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7326
+current: 276995
+Prev tag size: 7337
+Tag type: 8 - Audio data
+  Data size: 963
+  Timestamp: 1173
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 963
+current: 277973
+Prev tag size: 974
+Tag type: 8 - Audio data
+  Data size: 950
+  Timestamp: 1195
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 950
+current: 278938
+Prev tag size: 961
+Tag type: 9 - Video data
+  Data size: 7182
+  Timestamp: 1200
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7182
+current: 286135
+Prev tag size: 7193
+Tag type: 8 - Audio data
+  Data size: 948
+  Timestamp: 1216
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 948
+current: 287098
+Prev tag size: 959
+Tag type: 8 - Audio data
+  Data size: 939
+  Timestamp: 1237
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 939
+current: 288052
+Prev tag size: 950
+Tag type: 9 - Video data
+  Data size: 7547
+  Timestamp: 1240
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7547
+current: 295614
+Prev tag size: 7558
+Tag type: 8 - Audio data
+  Data size: 968
+  Timestamp: 1259
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 968
+current: 296597
+Prev tag size: 979
+Tag type: 9 - Video data
+  Data size: 751
+  Timestamp: 1280
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 751
+current: 297363
+Prev tag size: 762
+Tag type: 8 - Audio data
+  Data size: 967
+  Timestamp: 1280
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 967
+current: 298345
+Prev tag size: 978
+Tag type: 8 - Audio data
+  Data size: 966
+  Timestamp: 1301
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 966
+current: 299326
+Prev tag size: 977
+Tag type: 9 - Video data
+  Data size: 5650
+  Timestamp: 1320
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5650
+current: 304991
+Prev tag size: 5661
+Tag type: 8 - Audio data
+  Data size: 962
+  Timestamp: 1323
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 962
+current: 305968
+Prev tag size: 973
+Tag type: 8 - Audio data
+  Data size: 985
+  Timestamp: 1344
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 985
+current: 306968
+Prev tag size: 996
+Tag type: 9 - Video data
+  Data size: 6342
+  Timestamp: 1360
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6342
+current: 313325
+Prev tag size: 6353
+Tag type: 8 - Audio data
+  Data size: 951
+  Timestamp: 1365
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 951
+current: 314291
+Prev tag size: 962
+Tag type: 8 - Audio data
+  Data size: 984
+  Timestamp: 1387
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 984
+current: 315290
+Prev tag size: 995
+Tag type: 9 - Video data
+  Data size: 6441
+  Timestamp: 1400
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6441
+current: 321746
+Prev tag size: 6452
+Tag type: 8 - Audio data
+  Data size: 968
+  Timestamp: 1408
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 968
+current: 322729
+Prev tag size: 979
+Tag type: 8 - Audio data
+  Data size: 976
+  Timestamp: 1429
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 976
+current: 323720
+Prev tag size: 987
+Tag type: 9 - Video data
+  Data size: 6946
+  Timestamp: 1440
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6946
+current: 330681
+Prev tag size: 6957
+Tag type: 8 - Audio data
+  Data size: 1000
+  Timestamp: 1451
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1000
+current: 331696
+Prev tag size: 1011
+Tag type: 8 - Audio data
+  Data size: 980
+  Timestamp: 1472
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 980
+current: 332691
+Prev tag size: 991
+Tag type: 9 - Video data
+  Data size: 7202
+  Timestamp: 1480
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7202
+current: 339908
+Prev tag size: 7213
+Tag type: 8 - Audio data
+  Data size: 1012
+  Timestamp: 1493
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1012
+current: 340935
+Prev tag size: 1023
+Tag type: 8 - Audio data
+  Data size: 960
+  Timestamp: 1515
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 960
+current: 341910
+Prev tag size: 971
+Tag type: 9 - Video data
+  Data size: 7572
+  Timestamp: 1520
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7572
+current: 349497
+Prev tag size: 7583
+Tag type: 8 - Audio data
+  Data size: 1019
+  Timestamp: 1536
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1019
+current: 350531
+Prev tag size: 1030
+Tag type: 8 - Audio data
+  Data size: 1001
+  Timestamp: 1557
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1001
+current: 351547
+Prev tag size: 1012
+Tag type: 9 - Video data
+  Data size: 7781
+  Timestamp: 1560
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7781
+current: 359343
+Prev tag size: 7792
+Tag type: 8 - Audio data
+  Data size: 982
+  Timestamp: 1579
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 982
+current: 360340
+Prev tag size: 993
+Tag type: 9 - Video data
+  Data size: 8266
+  Timestamp: 1600
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 8266
+current: 368621
+Prev tag size: 8277
+Tag type: 8 - Audio data
+  Data size: 997
+  Timestamp: 1600
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 997
+current: 369633
+Prev tag size: 1008
+Tag type: 8 - Audio data
+  Data size: 1027
+  Timestamp: 1621
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1027
+current: 370675
+Prev tag size: 1038
+Tag type: 9 - Video data
+  Data size: 7463
+  Timestamp: 1640
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7463
+current: 378153
+Prev tag size: 7474
+Tag type: 8 - Audio data
+  Data size: 1013
+  Timestamp: 1643
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1013
+current: 379181
+Prev tag size: 1024
+Tag type: 8 - Audio data
+  Data size: 1003
+  Timestamp: 1664
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1003
+current: 380199
+Prev tag size: 1014
+Tag type: 9 - Video data
+  Data size: 7586
+  Timestamp: 1680
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7586
+current: 387800
+Prev tag size: 7597
+Tag type: 8 - Audio data
+  Data size: 1021
+  Timestamp: 1685
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1021
+current: 388836
+Prev tag size: 1032
+Tag type: 8 - Audio data
+  Data size: 1004
+  Timestamp: 1707
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1004
+current: 389855
+Prev tag size: 1015
+Tag type: 9 - Video data
+  Data size: 7795
+  Timestamp: 1720
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7795
+current: 397665
+Prev tag size: 7806
+Tag type: 8 - Audio data
+  Data size: 1054
+  Timestamp: 1728
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1054
+current: 398734
+Prev tag size: 1065
+Tag type: 8 - Audio data
+  Data size: 995
+  Timestamp: 1749
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 995
+current: 399744
+Prev tag size: 1006
+Tag type: 9 - Video data
+  Data size: 7471
+  Timestamp: 1760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7471
+current: 407230
+Prev tag size: 7482
+Tag type: 8 - Audio data
+  Data size: 1051
+  Timestamp: 1771
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1051
+current: 408296
+Prev tag size: 1062
+Tag type: 8 - Audio data
+  Data size: 1030
+  Timestamp: 1792
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1030
+current: 409341
+Prev tag size: 1041
+Tag type: 9 - Video data
+  Data size: 7384
+  Timestamp: 1800
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7384
+current: 416740
+Prev tag size: 7395
+Tag type: 8 - Audio data
+  Data size: 1038
+  Timestamp: 1813
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1038
+current: 417793
+Prev tag size: 1049
+Tag type: 8 - Audio data
+  Data size: 1042
+  Timestamp: 1835
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1042
+current: 418850
+Prev tag size: 1053
+Tag type: 9 - Video data
+  Data size: 7211
+  Timestamp: 1840
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7211
+current: 426076
+Prev tag size: 7222
+Tag type: 8 - Audio data
+  Data size: 1061
+  Timestamp: 1856
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1061
+current: 427152
+Prev tag size: 1072
+Tag type: 8 - Audio data
+  Data size: 1070
+  Timestamp: 1877
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1070
+current: 428237
+Prev tag size: 1081
+Tag type: 9 - Video data
+  Data size: 7072
+  Timestamp: 1880
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7072
+current: 435324
+Prev tag size: 7083
+Tag type: 8 - Audio data
+  Data size: 1062
+  Timestamp: 1899
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1062
+current: 436401
+Prev tag size: 1073
+Tag type: 9 - Video data
+  Data size: 7358
+  Timestamp: 1920
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7358
+current: 443774
+Prev tag size: 7369
+Tag type: 8 - Audio data
+  Data size: 1067
+  Timestamp: 1920
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1067
+current: 444856
+Prev tag size: 1078
+Tag type: 8 - Audio data
+  Data size: 1071
+  Timestamp: 1941
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1071
+current: 445942
+Prev tag size: 1082
+Tag type: 9 - Video data
+  Data size: 6308
+  Timestamp: 1960
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6308
+current: 452265
+Prev tag size: 6319
+Tag type: 8 - Audio data
+  Data size: 1073
+  Timestamp: 1963
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1073
+current: 453353
+Prev tag size: 1084
+Tag type: 8 - Audio data
+  Data size: 1086
+  Timestamp: 1984
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1086
+current: 454454
+Prev tag size: 1097
+Tag type: 9 - Video data
+  Data size: 6195
+  Timestamp: 2000
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6195
+current: 460664
+Prev tag size: 6206
+Tag type: 8 - Audio data
+  Data size: 1082
+  Timestamp: 2005
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1082
+current: 461761
+Prev tag size: 1093
+Tag type: 8 - Audio data
+  Data size: 1053
+  Timestamp: 2027
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1053
+current: 462829
+Prev tag size: 1064
+Tag type: 9 - Video data
+  Data size: 6260
+  Timestamp: 2040
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6260
+current: 469104
+Prev tag size: 6271
+Tag type: 8 - Audio data
+  Data size: 1030
+  Timestamp: 2048
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1030
+current: 470149
+Prev tag size: 1041
+Tag type: 8 - Audio data
+  Data size: 1040
+  Timestamp: 2069
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1040
+current: 471204
+Prev tag size: 1051
+Tag type: 9 - Video data
+  Data size: 6284
+  Timestamp: 2080
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6284
+current: 477503
+Prev tag size: 6295
+Tag type: 8 - Audio data
+  Data size: 1063
+  Timestamp: 2091
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1063
+current: 478581
+Prev tag size: 1074
+Tag type: 8 - Audio data
+  Data size: 1045
+  Timestamp: 2112
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1045
+current: 479641
+Prev tag size: 1056
+Tag type: 9 - Video data
+  Data size: 5911
+  Timestamp: 2120
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5911
+current: 485567
+Prev tag size: 5922
+Tag type: 8 - Audio data
+  Data size: 1042
+  Timestamp: 2133
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1042
+current: 486624
+Prev tag size: 1053
+Tag type: 8 - Audio data
+  Data size: 1026
+  Timestamp: 2155
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1026
+current: 487665
+Prev tag size: 1037
+Tag type: 9 - Video data
+  Data size: 6496
+  Timestamp: 2160
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6496
+current: 494176
+Prev tag size: 6507
+Tag type: 8 - Audio data
+  Data size: 1038
+  Timestamp: 2176
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1038
+current: 495229
+Prev tag size: 1049
+Tag type: 8 - Audio data
+  Data size: 1014
+  Timestamp: 2197
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1014
+current: 496258
+Prev tag size: 1025
+Tag type: 9 - Video data
+  Data size: 6075
+  Timestamp: 2200
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6075
+current: 502348
+Prev tag size: 6086
+Tag type: 8 - Audio data
+  Data size: 1033
+  Timestamp: 2219
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1033
+current: 503396
+Prev tag size: 1044
+Tag type: 9 - Video data
+  Data size: 6722
+  Timestamp: 2240
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6722
+current: 510133
+Prev tag size: 6733
+Tag type: 8 - Audio data
+  Data size: 1012
+  Timestamp: 2240
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1012
+current: 511160
+Prev tag size: 1023
+Tag type: 8 - Audio data
+  Data size: 1034
+  Timestamp: 2261
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1034
+current: 512209
+Prev tag size: 1045
+Tag type: 9 - Video data
+  Data size: 707
+  Timestamp: 2280
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 707
+current: 512931
+Prev tag size: 718
+Tag type: 8 - Audio data
+  Data size: 1029
+  Timestamp: 2283
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1029
+current: 513975
+Prev tag size: 1040
+Tag type: 8 - Audio data
+  Data size: 1047
+  Timestamp: 2304
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1047
+current: 515037
+Prev tag size: 1058
+Tag type: 9 - Video data
+  Data size: 5192
+  Timestamp: 2320
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5192
+current: 520244
+Prev tag size: 5203
+Tag type: 8 - Audio data
+  Data size: 1036
+  Timestamp: 2325
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1036
+current: 521295
+Prev tag size: 1047
+Tag type: 8 - Audio data
+  Data size: 1037
+  Timestamp: 2347
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1037
+current: 522347
+Prev tag size: 1048
+Tag type: 9 - Video data
+  Data size: 6057
+  Timestamp: 2360
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6057
+current: 528419
+Prev tag size: 6068
+Tag type: 8 - Audio data
+  Data size: 1040
+  Timestamp: 2368
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1040
+current: 529474
+Prev tag size: 1051
+Tag type: 8 - Audio data
+  Data size: 1026
+  Timestamp: 2389
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1026
+current: 530515
+Prev tag size: 1037
+Tag type: 9 - Video data
+  Data size: 5744
+  Timestamp: 2400
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5744
+current: 536274
+Prev tag size: 5755
+Tag type: 8 - Audio data
+  Data size: 1036
+  Timestamp: 2411
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1036
+current: 537325
+Prev tag size: 1047
+Tag type: 8 - Audio data
+  Data size: 1026
+  Timestamp: 2432
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1026
+current: 538366
+Prev tag size: 1037
+Tag type: 9 - Video data
+  Data size: 6175
+  Timestamp: 2440
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6175
+current: 544556
+Prev tag size: 6186
+Tag type: 8 - Audio data
+  Data size: 1026
+  Timestamp: 2453
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1026
+current: 545597
+Prev tag size: 1037
+Tag type: 8 - Audio data
+  Data size: 1014
+  Timestamp: 2475
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1014
+current: 546626
+Prev tag size: 1025
+Tag type: 9 - Video data
+  Data size: 6120
+  Timestamp: 2480
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6120
+current: 552761
+Prev tag size: 6131
+Tag type: 8 - Audio data
+  Data size: 1007
+  Timestamp: 2496
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1007
+current: 553783
+Prev tag size: 1018
+Tag type: 8 - Audio data
+  Data size: 1012
+  Timestamp: 2517
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1012
+current: 554810
+Prev tag size: 1023
+Tag type: 9 - Video data
+  Data size: 6623
+  Timestamp: 2520
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6623
+current: 561448
+Prev tag size: 6634
+Tag type: 8 - Audio data
+  Data size: 1021
+  Timestamp: 2539
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1021
+current: 562484
+Prev tag size: 1032
+Tag type: 9 - Video data
+  Data size: 6111
+  Timestamp: 2560
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6111
+current: 568610
+Prev tag size: 6122
+Tag type: 8 - Audio data
+  Data size: 1008
+  Timestamp: 2560
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1008
+current: 569633
+Prev tag size: 1019
+Tag type: 8 - Audio data
+  Data size: 1028
+  Timestamp: 2581
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1028
+current: 570676
+Prev tag size: 1039
+Tag type: 9 - Video data
+  Data size: 6413
+  Timestamp: 2600
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6413
+current: 577104
+Prev tag size: 6424
+Tag type: 8 - Audio data
+  Data size: 1025
+  Timestamp: 2603
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1025
+current: 578144
+Prev tag size: 1036
+Tag type: 8 - Audio data
+  Data size: 1030
+  Timestamp: 2624
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1030
+current: 579189
+Prev tag size: 1041
+Tag type: 9 - Video data
+  Data size: 5999
+  Timestamp: 2640
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5999
+current: 585203
+Prev tag size: 6010
+Tag type: 8 - Audio data
+  Data size: 1039
+  Timestamp: 2645
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1039
+current: 586257
+Prev tag size: 1050
+Tag type: 8 - Audio data
+  Data size: 1052
+  Timestamp: 2667
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1052
+current: 587324
+Prev tag size: 1063
+Tag type: 9 - Video data
+  Data size: 6573
+  Timestamp: 2680
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6573
+current: 593912
+Prev tag size: 6584
+Tag type: 8 - Audio data
+  Data size: 1054
+  Timestamp: 2688
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1054
+current: 594981
+Prev tag size: 1065
+Tag type: 8 - Audio data
+  Data size: 1035
+  Timestamp: 2709
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1035
+current: 596031
+Prev tag size: 1046
+Tag type: 9 - Video data
+  Data size: 6543
+  Timestamp: 2720
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6543
+current: 602589
+Prev tag size: 6554
+Tag type: 8 - Audio data
+  Data size: 1066
+  Timestamp: 2731
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1066
+current: 603670
+Prev tag size: 1077
+Tag type: 8 - Audio data
+  Data size: 1040
+  Timestamp: 2752
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1040
+current: 604725
+Prev tag size: 1051
+Tag type: 9 - Video data
+  Data size: 6765
+  Timestamp: 2760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6765
+current: 611505
+Prev tag size: 6776
+Tag type: 8 - Audio data
+  Data size: 1049
+  Timestamp: 2773
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1049
+current: 612569
+Prev tag size: 1060
+Tag type: 8 - Audio data
+  Data size: 1039
+  Timestamp: 2795
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1039
+current: 613623
+Prev tag size: 1050
+Tag type: 9 - Video data
+  Data size: 6925
+  Timestamp: 2800
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6925
+current: 620563
+Prev tag size: 6936
+Tag type: 8 - Audio data
+  Data size: 1024
+  Timestamp: 2816
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1024
+current: 621602
+Prev tag size: 1035
+Tag type: 8 - Audio data
+  Data size: 1035
+  Timestamp: 2837
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1035
+current: 622652
+Prev tag size: 1046
+Tag type: 9 - Video data
+  Data size: 6983
+  Timestamp: 2840
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6983
+current: 629650
+Prev tag size: 6994
+Tag type: 8 - Audio data
+  Data size: 1041
+  Timestamp: 2859
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1041
+current: 630706
+Prev tag size: 1052
+Tag type: 9 - Video data
+  Data size: 6898
+  Timestamp: 2880
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6898
+current: 637619
+Prev tag size: 6909
+Tag type: 8 - Audio data
+  Data size: 1037
+  Timestamp: 2880
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1037
+current: 638671
+Prev tag size: 1048
+Tag type: 8 - Audio data
+  Data size: 1027
+  Timestamp: 2901
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1027
+current: 639713
+Prev tag size: 1038
+Tag type: 9 - Video data
+  Data size: 7078
+  Timestamp: 2920
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7078
+current: 646806
+Prev tag size: 7089
+Tag type: 8 - Audio data
+  Data size: 1015
+  Timestamp: 2923
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1015
+current: 647836
+Prev tag size: 1026
+Tag type: 8 - Audio data
+  Data size: 1028
+  Timestamp: 2944
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1028
+current: 648879
+Prev tag size: 1039
+Tag type: 9 - Video data
+  Data size: 7308
+  Timestamp: 2960
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7308
+current: 656202
+Prev tag size: 7319
+Tag type: 8 - Audio data
+  Data size: 1028
+  Timestamp: 2965
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1028
+current: 657245
+Prev tag size: 1039
+Tag type: 8 - Audio data
+  Data size: 1014
+  Timestamp: 2987
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1014
+current: 658274
+Prev tag size: 1025
+Tag type: 9 - Video data
+  Data size: 6963
+  Timestamp: 3000
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6963
+current: 665252
+Prev tag size: 6974
+Tag type: 8 - Audio data
+  Data size: 1031
+  Timestamp: 3008
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1031
+current: 666298
+Prev tag size: 1042
+Tag type: 8 - Audio data
+  Data size: 1024
+  Timestamp: 3029
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1024
+current: 667337
+Prev tag size: 1035
+Tag type: 9 - Video data
+  Data size: 7218
+  Timestamp: 3040
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7218
+current: 674570
+Prev tag size: 7229
+Tag type: 8 - Audio data
+  Data size: 1009
+  Timestamp: 3051
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1009
+current: 675594
+Prev tag size: 1020
+Tag type: 8 - Audio data
+  Data size: 1006
+  Timestamp: 3072
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1006
+current: 676615
+Prev tag size: 1017
+Tag type: 9 - Video data
+  Data size: 7849
+  Timestamp: 3080
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7849
+current: 684479
+Prev tag size: 7860
+Tag type: 8 - Audio data
+  Data size: 984
+  Timestamp: 3093
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 984
+current: 685478
+Prev tag size: 995
+Tag type: 8 - Audio data
+  Data size: 1099
+  Timestamp: 3115
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1099
+current: 686592
+Prev tag size: 1110
+Tag type: 9 - Video data
+  Data size: 5887
+  Timestamp: 3120
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5887
+current: 692494
+Prev tag size: 5898
+Tag type: 8 - Audio data
+  Data size: 1023
+  Timestamp: 3136
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1023
+current: 693532
+Prev tag size: 1034
+Tag type: 8 - Audio data
+  Data size: 1005
+  Timestamp: 3157
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1005
+current: 694552
+Prev tag size: 1016
+Tag type: 9 - Video data
+  Data size: 8332
+  Timestamp: 3160
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 8332
+current: 702899
+Prev tag size: 8343
+Tag type: 8 - Audio data
+  Data size: 1018
+  Timestamp: 3179
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1018
+current: 703932
+Prev tag size: 1029
+Tag type: 9 - Video data
+  Data size: 7237
+  Timestamp: 3200
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 7237
+current: 711184
+Prev tag size: 7248
+Tag type: 8 - Audio data
+  Data size: 1030
+  Timestamp: 3200
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1030
+current: 712229
+Prev tag size: 1041
+Tag type: 8 - Audio data
+  Data size: 986
+  Timestamp: 3221
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 986
+current: 713230
+Prev tag size: 997
+Tag type: 9 - Video data
+  Data size: 4752
+  Timestamp: 3240
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4752
+current: 717997
+Prev tag size: 4763
+Tag type: 8 - Audio data
+  Data size: 991
+  Timestamp: 3243
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 991
+current: 719003
+Prev tag size: 1002
+Tag type: 8 - Audio data
+  Data size: 999
+  Timestamp: 3264
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 999
+current: 720017
+Prev tag size: 1010
+Tag type: 9 - Video data
+  Data size: 1140
+  Timestamp: 3280
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1140
+current: 721172
+Prev tag size: 1151
+Tag type: 8 - Audio data
+  Data size: 990
+  Timestamp: 3285
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 990
+current: 722177
+Prev tag size: 1001
+Tag type: 8 - Audio data
+  Data size: 1006
+  Timestamp: 3307
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1006
+current: 723198
+Prev tag size: 1017
+Tag type: 9 - Video data
+  Data size: 6236
+  Timestamp: 3320
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6236
+current: 729449
+Prev tag size: 6247
+Tag type: 8 - Audio data
+  Data size: 1006
+  Timestamp: 3328
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1006
+current: 730470
+Prev tag size: 1017
+Tag type: 8 - Audio data
+  Data size: 964
+  Timestamp: 3349
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 964
+current: 731449
+Prev tag size: 975
+Tag type: 9 - Video data
+  Data size: 6976
+  Timestamp: 3360
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 6976
+current: 738440
+Prev tag size: 6987
+Tag type: 8 - Audio data
+  Data size: 1006
+  Timestamp: 3371
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1006
+current: 739461
+Prev tag size: 1017
+Tag type: 8 - Audio data
+  Data size: 986
+  Timestamp: 3392
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 986
+current: 740462
+Prev tag size: 997
+Tag type: 9 - Video data
+  Data size: 2835
+  Timestamp: 3400
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2835
+current: 743312
+Prev tag size: 2846
+Tag type: 8 - Audio data
+  Data size: 1010
+  Timestamp: 3413
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1010
+current: 744337
+Prev tag size: 1021
+Tag type: 8 - Audio data
+  Data size: 1096
+  Timestamp: 3435
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1096
+current: 745448
+Prev tag size: 1107
+Tag type: 9 - Video data
+  Data size: 4967
+  Timestamp: 3440
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4967
+current: 750430
+Prev tag size: 4978
+Tag type: 8 - Audio data
+  Data size: 1067
+  Timestamp: 3456
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1067
+current: 751512
+Prev tag size: 1078
+Tag type: 8 - Audio data
+  Data size: 1071
+  Timestamp: 3477
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1071
+current: 752598
+Prev tag size: 1082
+Tag type: 9 - Video data
+  Data size: 4175
+  Timestamp: 3480
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4175
+current: 756788
+Prev tag size: 4186
+Tag type: 8 - Audio data
+  Data size: 1030
+  Timestamp: 3499
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1030
+current: 757833
+Prev tag size: 1041
+Tag type: 9 - Video data
+  Data size: 5506
+  Timestamp: 3520
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5506
+current: 763354
+Prev tag size: 5517
+Tag type: 8 - Audio data
+  Data size: 1074
+  Timestamp: 3520
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1074
+current: 764443
+Prev tag size: 1085
+Tag type: 8 - Audio data
+  Data size: 1041
+  Timestamp: 3541
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1041
+current: 765499
+Prev tag size: 1052
+Tag type: 9 - Video data
+  Data size: 1998
+  Timestamp: 3560
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1998
+current: 767512
+Prev tag size: 2009
+Tag type: 8 - Audio data
+  Data size: 1071
+  Timestamp: 3563
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1071
+current: 768598
+Prev tag size: 1082
+Tag type: 8 - Audio data
+  Data size: 1069
+  Timestamp: 3584
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1069
+current: 769682
+Prev tag size: 1080
+Tag type: 9 - Video data
+  Data size: 3003
+  Timestamp: 3600
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3003
+current: 772700
+Prev tag size: 3014
+Tag type: 8 - Audio data
+  Data size: 1127
+  Timestamp: 3605
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1127
+current: 773842
+Prev tag size: 1138
+Tag type: 8 - Audio data
+  Data size: 1146
+  Timestamp: 3627
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1146
+current: 775003
+Prev tag size: 1157
+Tag type: 9 - Video data
+  Data size: 1833
+  Timestamp: 3640
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1833
+current: 776851
+Prev tag size: 1844
+Tag type: 8 - Audio data
+  Data size: 1131
+  Timestamp: 3648
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1131
+current: 777997
+Prev tag size: 1142
+Tag type: 8 - Audio data
+  Data size: 1117
+  Timestamp: 3669
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1117
+current: 779129
+Prev tag size: 1128
+Tag type: 9 - Video data
+  Data size: 1676
+  Timestamp: 3680
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1676
+current: 780820
+Prev tag size: 1687
+Tag type: 8 - Audio data
+  Data size: 1079
+  Timestamp: 3691
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1079
+current: 781914
+Prev tag size: 1090
+Tag type: 8 - Audio data
+  Data size: 1100
+  Timestamp: 3712
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1100
+current: 783029
+Prev tag size: 1111
+Tag type: 9 - Video data
+  Data size: 1620
+  Timestamp: 3720
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1620
+current: 784664
+Prev tag size: 1631
+Tag type: 8 - Audio data
+  Data size: 1029
+  Timestamp: 3733
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1029
+current: 785708
+Prev tag size: 1040
+Tag type: 8 - Audio data
+  Data size: 1021
+  Timestamp: 3755
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1021
+current: 786744
+Prev tag size: 1032
+Tag type: 9 - Video data
+  Data size: 1656
+  Timestamp: 3760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1656
+current: 788415
+Prev tag size: 1667
+Tag type: 8 - Audio data
+  Data size: 1033
+  Timestamp: 3776
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1033
+current: 789463
+Prev tag size: 1044
+Tag type: 8 - Audio data
+  Data size: 1021
+  Timestamp: 3797
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1021
+current: 790499
+Prev tag size: 1032
+Tag type: 9 - Video data
+  Data size: 1332
+  Timestamp: 3800
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1332
+current: 791846
+Prev tag size: 1343
+Tag type: 8 - Audio data
+  Data size: 1022
+  Timestamp: 3819
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1022
+current: 792883
+Prev tag size: 1033
+Tag type: 9 - Video data
+  Data size: 1431
+  Timestamp: 3840
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1431
+current: 794329
+Prev tag size: 1442
+Tag type: 8 - Audio data
+  Data size: 1047
+  Timestamp: 3840
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1047
+current: 795391
+Prev tag size: 1058
+Tag type: 8 - Audio data
+  Data size: 1028
+  Timestamp: 3861
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1028
+current: 796434
+Prev tag size: 1039
+Tag type: 9 - Video data
+  Data size: 2463
+  Timestamp: 3880
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2463
+current: 798912
+Prev tag size: 2474
+Tag type: 8 - Audio data
+  Data size: 1055
+  Timestamp: 3883
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1055
+current: 799982
+Prev tag size: 1066
+Tag type: 8 - Audio data
+  Data size: 1020
+  Timestamp: 3904
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1020
+current: 801017
+Prev tag size: 1031
+Tag type: 9 - Video data
+  Data size: 1800
+  Timestamp: 3920
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1800
+current: 802832
+Prev tag size: 1811
+Tag type: 8 - Audio data
+  Data size: 958
+  Timestamp: 3925
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 958
+current: 803805
+Prev tag size: 969
+Tag type: 8 - Audio data
+  Data size: 950
+  Timestamp: 3947
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 950
+current: 804770
+Prev tag size: 961
+Tag type: 9 - Video data
+  Data size: 1970
+  Timestamp: 3960
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1970
+current: 806755
+Prev tag size: 1981
+Tag type: 8 - Audio data
+  Data size: 944
+  Timestamp: 3968
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 944
+current: 807714
+Prev tag size: 955
+Tag type: 8 - Audio data
+  Data size: 1008
+  Timestamp: 3989
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1008
+current: 808737
+Prev tag size: 1019
+Tag type: 9 - Video data
+  Data size: 2202
+  Timestamp: 4000
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2202
+current: 810954
+Prev tag size: 2213
+Tag type: 8 - Audio data
+  Data size: 936
+  Timestamp: 4011
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 936
+current: 811905
+Prev tag size: 947
+Tag type: 8 - Audio data
+  Data size: 941
+  Timestamp: 4032
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 941
+current: 812861
+Prev tag size: 952
+Tag type: 9 - Video data
+  Data size: 2239
+  Timestamp: 4040
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2239
+current: 815115
+Prev tag size: 2250
+Tag type: 8 - Audio data
+  Data size: 945
+  Timestamp: 4053
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 945
+current: 816075
+Prev tag size: 956
+Tag type: 8 - Audio data
+  Data size: 972
+  Timestamp: 4075
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 972
+current: 817062
+Prev tag size: 983
+Tag type: 9 - Video data
+  Data size: 2005
+  Timestamp: 4080
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2005
+current: 819082
+Prev tag size: 2016
+Tag type: 8 - Audio data
+  Data size: 967
+  Timestamp: 4096
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 967
+current: 820064
+Prev tag size: 978
+Tag type: 8 - Audio data
+  Data size: 1100
+  Timestamp: 4117
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1100
+current: 821179
+Prev tag size: 1111
+Tag type: 9 - Video data
+  Data size: 3077
+  Timestamp: 4120
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3077
+current: 824271
+Prev tag size: 3088
+Tag type: 8 - Audio data
+  Data size: 1069
+  Timestamp: 4139
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1069
+current: 825355
+Prev tag size: 1080
+Tag type: 9 - Video data
+  Data size: 3579
+  Timestamp: 4160
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3579
+current: 828949
+Prev tag size: 3590
+Tag type: 8 - Audio data
+  Data size: 1023
+  Timestamp: 4160
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1023
+current: 829987
+Prev tag size: 1034
+Tag type: 8 - Audio data
+  Data size: 1011
+  Timestamp: 4181
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1011
+current: 831013
+Prev tag size: 1022
+Tag type: 9 - Video data
+  Data size: 4183
+  Timestamp: 4200
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4183
+current: 835211
+Prev tag size: 4194
+Tag type: 8 - Audio data
+  Data size: 1038
+  Timestamp: 4203
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1038
+current: 836264
+Prev tag size: 1049
+Tag type: 8 - Audio data
+  Data size: 1037
+  Timestamp: 4224
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1037
+current: 837316
+Prev tag size: 1048
+Tag type: 9 - Video data
+  Data size: 5521
+  Timestamp: 4240
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5521
+current: 842852
+Prev tag size: 5532
+Tag type: 8 - Audio data
+  Data size: 1026
+  Timestamp: 4245
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1026
+current: 843893
+Prev tag size: 1037
+Tag type: 8 - Audio data
+  Data size: 1076
+  Timestamp: 4267
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1076
+current: 844984
+Prev tag size: 1087
+Tag type: 9 - Video data
+  Data size: 535
+  Timestamp: 4280
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 535
+current: 845534
+Prev tag size: 546
+Tag type: 8 - Audio data
+  Data size: 1039
+  Timestamp: 4288
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1039
+current: 846588
+Prev tag size: 1050
+Tag type: 8 - Audio data
+  Data size: 1010
+  Timestamp: 4309
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1010
+current: 847613
+Prev tag size: 1021
+Tag type: 9 - Video data
+  Data size: 4308
+  Timestamp: 4320
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4308
+current: 851936
+Prev tag size: 4319
+Tag type: 8 - Audio data
+  Data size: 981
+  Timestamp: 4331
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 981
+current: 852932
+Prev tag size: 992
+Tag type: 8 - Audio data
+  Data size: 1018
+  Timestamp: 4352
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1018
+current: 853965
+Prev tag size: 1029
+Tag type: 9 - Video data
+  Data size: 4221
+  Timestamp: 4360
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4221
+current: 858201
+Prev tag size: 4232
+Tag type: 8 - Audio data
+  Data size: 967
+  Timestamp: 4373
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 967
+current: 859183
+Prev tag size: 978
+Tag type: 8 - Audio data
+  Data size: 985
+  Timestamp: 4395
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 985
+current: 860183
+Prev tag size: 996
+Tag type: 9 - Video data
+  Data size: 4573
+  Timestamp: 4400
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4573
+current: 864771
+Prev tag size: 4584
+Tag type: 8 - Audio data
+  Data size: 978
+  Timestamp: 4416
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 978
+current: 865764
+Prev tag size: 989
+Tag type: 8 - Audio data
+  Data size: 982
+  Timestamp: 4437
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 982
+current: 866761
+Prev tag size: 993
+Tag type: 9 - Video data
+  Data size: 4465
+  Timestamp: 4440
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4465
+current: 871241
+Prev tag size: 4476
+Tag type: 8 - Audio data
+  Data size: 952
+  Timestamp: 4459
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 952
+current: 872208
+Prev tag size: 963
+Tag type: 9 - Video data
+  Data size: 4396
+  Timestamp: 4480
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4396
+current: 876619
+Prev tag size: 4407
+Tag type: 8 - Audio data
+  Data size: 981
+  Timestamp: 4480
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 981
+current: 877615
+Prev tag size: 992
+Tag type: 8 - Audio data
+  Data size: 980
+  Timestamp: 4501
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 980
+current: 878610
+Prev tag size: 991
+Tag type: 9 - Video data
+  Data size: 5851
+  Timestamp: 4520
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5851
+current: 884476
+Prev tag size: 5862
+Tag type: 8 - Audio data
+  Data size: 989
+  Timestamp: 4523
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 989
+current: 885480
+Prev tag size: 1000
+Tag type: 8 - Audio data
+  Data size: 993
+  Timestamp: 4544
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 993
+current: 886488
+Prev tag size: 1004
+Tag type: 9 - Video data
+  Data size: 2205
+  Timestamp: 4560
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2205
+current: 888708
+Prev tag size: 2216
+Tag type: 8 - Audio data
+  Data size: 986
+  Timestamp: 4565
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 986
+current: 889709
+Prev tag size: 997
+Tag type: 8 - Audio data
+  Data size: 1123
+  Timestamp: 4587
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1123
+current: 890847
+Prev tag size: 1134
+Tag type: 9 - Video data
+  Data size: 2366
+  Timestamp: 4600
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2366
+current: 893228
+Prev tag size: 2377
+Tag type: 8 - Audio data
+  Data size: 1139
+  Timestamp: 4608
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1139
+current: 894382
+Prev tag size: 1150
+Tag type: 8 - Audio data
+  Data size: 1151
+  Timestamp: 4629
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1151
+current: 895548
+Prev tag size: 1162
+Tag type: 9 - Video data
+  Data size: 4025
+  Timestamp: 4640
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4025
+current: 899588
+Prev tag size: 4036
+Tag type: 8 - Audio data
+  Data size: 1184
+  Timestamp: 4651
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1184
+current: 900787
+Prev tag size: 1195
+Tag type: 8 - Audio data
+  Data size: 1152
+  Timestamp: 4672
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1152
+current: 901954
+Prev tag size: 1163
+Tag type: 9 - Video data
+  Data size: 1601
+  Timestamp: 4680
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1601
+current: 903570
+Prev tag size: 1612
+Tag type: 8 - Audio data
+  Data size: 1099
+  Timestamp: 4693
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1099
+current: 904684
+Prev tag size: 1110
+Tag type: 8 - Audio data
+  Data size: 1119
+  Timestamp: 4715
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1119
+current: 905818
+Prev tag size: 1130
+Tag type: 9 - Video data
+  Data size: 2081
+  Timestamp: 4720
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2081
+current: 907914
+Prev tag size: 2092
+Tag type: 8 - Audio data
+  Data size: 1090
+  Timestamp: 4736
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1090
+current: 909019
+Prev tag size: 1101
+Tag type: 8 - Audio data
+  Data size: 1065
+  Timestamp: 4757
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1065
+current: 910099
+Prev tag size: 1076
+Tag type: 9 - Video data
+  Data size: 3510
+  Timestamp: 4760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3510
+current: 913624
+Prev tag size: 3521
+Tag type: 8 - Audio data
+  Data size: 1080
+  Timestamp: 4779
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1080
+current: 914719
+Prev tag size: 1091
+Tag type: 9 - Video data
+  Data size: 3097
+  Timestamp: 4800
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3097
+current: 917831
+Prev tag size: 3108
+Tag type: 8 - Audio data
+  Data size: 1064
+  Timestamp: 4800
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1064
+current: 918910
+Prev tag size: 1075
+Tag type: 8 - Audio data
+  Data size: 1071
+  Timestamp: 4821
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1071
+current: 919996
+Prev tag size: 1082
+Tag type: 9 - Video data
+  Data size: 4017
+  Timestamp: 4840
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4017
+current: 924028
+Prev tag size: 4028
+Tag type: 8 - Audio data
+  Data size: 1152
+  Timestamp: 4843
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1152
+current: 925195
+Prev tag size: 1163
+Tag type: 8 - Audio data
+  Data size: 1168
+  Timestamp: 4864
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1168
+current: 926378
+Prev tag size: 1179
+Tag type: 9 - Video data
+  Data size: 1829
+  Timestamp: 4880
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1829
+current: 928222
+Prev tag size: 1840
+Tag type: 8 - Audio data
+  Data size: 1180
+  Timestamp: 4885
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1180
+current: 929417
+Prev tag size: 1191
+Tag type: 8 - Audio data
+  Data size: 1135
+  Timestamp: 4907
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1135
+current: 930567
+Prev tag size: 1146
+Tag type: 9 - Video data
+  Data size: 2340
+  Timestamp: 4920
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2340
+current: 932922
+Prev tag size: 2351
+Tag type: 8 - Audio data
+  Data size: 1187
+  Timestamp: 4928
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1187
+current: 934124
+Prev tag size: 1198
+Tag type: 8 - Audio data
+  Data size: 1143
+  Timestamp: 4949
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1143
+current: 935282
+Prev tag size: 1154
+Tag type: 9 - Video data
+  Data size: 2635
+  Timestamp: 4960
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2635
+current: 937932
+Prev tag size: 2646
+Tag type: 8 - Audio data
+  Data size: 1159
+  Timestamp: 4971
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1159
+current: 939106
+Prev tag size: 1170
+Tag type: 8 - Audio data
+  Data size: 1108
+  Timestamp: 4992
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1108
+current: 940229
+Prev tag size: 1119
+Tag type: 9 - Video data
+  Data size: 3860
+  Timestamp: 5000
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3860
+current: 944104
+Prev tag size: 3871
+Tag type: 8 - Audio data
+  Data size: 1106
+  Timestamp: 5013
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1106
+current: 945225
+Prev tag size: 1117
+Tag type: 8 - Audio data
+  Data size: 1149
+  Timestamp: 5035
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1149
+current: 946389
+Prev tag size: 1160
+Tag type: 9 - Video data
+  Data size: 2189
+  Timestamp: 5040
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2189
+current: 948593
+Prev tag size: 2200
+Tag type: 8 - Audio data
+  Data size: 1079
+  Timestamp: 5056
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1079
+current: 949687
+Prev tag size: 1090
+Tag type: 8 - Audio data
+  Data size: 1087
+  Timestamp: 5077
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1087
+current: 950789
+Prev tag size: 1098
+Tag type: 9 - Video data
+  Data size: 1670
+  Timestamp: 5080
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 1670
+current: 952474
+Prev tag size: 1681
+Tag type: 8 - Audio data
+  Data size: 1165
+  Timestamp: 5099
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1165
+current: 953654
+Prev tag size: 1176
+Tag type: 9 - Video data
+  Data size: 3338
+  Timestamp: 5120
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3338
+current: 957007
+Prev tag size: 3349
+Tag type: 8 - Audio data
+  Data size: 1208
+  Timestamp: 5120
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1208
+current: 958230
+Prev tag size: 1219
+Tag type: 8 - Audio data
+  Data size: 1195
+  Timestamp: 5141
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1195
+current: 959440
+Prev tag size: 1206
+Tag type: 9 - Video data
+  Data size: 4184
+  Timestamp: 5160
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4184
+current: 963639
+Prev tag size: 4195
+Tag type: 8 - Audio data
+  Data size: 1187
+  Timestamp: 5163
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1187
+current: 964841
+Prev tag size: 1198
+Tag type: 8 - Audio data
+  Data size: 1127
+  Timestamp: 5184
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1127
+current: 965983
+Prev tag size: 1138
+Tag type: 9 - Video data
+  Data size: 4228
+  Timestamp: 5200
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4228
+current: 970226
+Prev tag size: 4239
+Tag type: 8 - Audio data
+  Data size: 1109
+  Timestamp: 5205
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1109
+current: 971350
+Prev tag size: 1120
+Tag type: 8 - Audio data
+  Data size: 1110
+  Timestamp: 5227
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1110
+current: 972475
+Prev tag size: 1121
+Tag type: 9 - Video data
+  Data size: 4724
+  Timestamp: 5240
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4724
+current: 977214
+Prev tag size: 4735
+Tag type: 8 - Audio data
+  Data size: 1068
+  Timestamp: 5248
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1068
+current: 978297
+Prev tag size: 1079
+Tag type: 8 - Audio data
+  Data size: 1076
+  Timestamp: 5269
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1076
+current: 979388
+Prev tag size: 1087
+Tag type: 9 - Video data
+  Data size: 644
+  Timestamp: 5280
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 644
+current: 980047
+Prev tag size: 655
+Tag type: 8 - Audio data
+  Data size: 1113
+  Timestamp: 5291
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1113
+current: 981175
+Prev tag size: 1124
+Tag type: 8 - Audio data
+  Data size: 1100
+  Timestamp: 5312
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1100
+current: 982290
+Prev tag size: 1111
+Tag type: 9 - Video data
+  Data size: 4255
+  Timestamp: 5320
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4255
+current: 986560
+Prev tag size: 4266
+Tag type: 8 - Audio data
+  Data size: 1085
+  Timestamp: 5333
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1085
+current: 987660
+Prev tag size: 1096
+Tag type: 8 - Audio data
+  Data size: 1101
+  Timestamp: 5355
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1101
+current: 988776
+Prev tag size: 1112
+Tag type: 9 - Video data
+  Data size: 5084
+  Timestamp: 5360
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5084
+current: 993875
+Prev tag size: 5095
+Tag type: 8 - Audio data
+  Data size: 1065
+  Timestamp: 5376
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1065
+current: 994955
+Prev tag size: 1076
+Tag type: 8 - Audio data
+  Data size: 1062
+  Timestamp: 5397
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1062
+current: 996032
+Prev tag size: 1073
+Tag type: 9 - Video data
+  Data size: 5757
+  Timestamp: 5400
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5757
+current: 1001804
+Prev tag size: 5768
+Tag type: 8 - Audio data
+  Data size: 1016
+  Timestamp: 5419
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1016
+current: 1002835
+Prev tag size: 1027
+Tag type: 9 - Video data
+  Data size: 5258
+  Timestamp: 5440
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5258
+current: 1008108
+Prev tag size: 5269
+Tag type: 8 - Audio data
+  Data size: 1008
+  Timestamp: 5440
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1008
+current: 1009131
+Prev tag size: 1019
+Tag type: 8 - Audio data
+  Data size: 1019
+  Timestamp: 5461
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1019
+current: 1010165
+Prev tag size: 1030
+Tag type: 9 - Video data
+  Data size: 5682
+  Timestamp: 5480
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5682
+current: 1015862
+Prev tag size: 5693
+Tag type: 8 - Audio data
+  Data size: 1011
+  Timestamp: 5483
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1011
+current: 1016888
+Prev tag size: 1022
+Tag type: 8 - Audio data
+  Data size: 999
+  Timestamp: 5504
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 999
+current: 1017902
+Prev tag size: 1010
+Tag type: 9 - Video data
+  Data size: 5733
+  Timestamp: 5520
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5733
+current: 1023650
+Prev tag size: 5744
+Tag type: 8 - Audio data
+  Data size: 1068
+  Timestamp: 5525
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1068
+current: 1024733
+Prev tag size: 1079
+Tag type: 8 - Audio data
+  Data size: 1001
+  Timestamp: 5547
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1001
+current: 1025749
+Prev tag size: 1012
+Tag type: 9 - Video data
+  Data size: 4716
+  Timestamp: 5560
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 4716
+current: 1030480
+Prev tag size: 4727
+Tag type: 8 - Audio data
+  Data size: 1028
+  Timestamp: 5568
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1028
+current: 1031523
+Prev tag size: 1039
+Tag type: 8 - Audio data
+  Data size: 1018
+  Timestamp: 5589
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1018
+current: 1032556
+Prev tag size: 1029
+Tag type: 9 - Video data
+  Data size: 5854
+  Timestamp: 5600
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5854
+current: 1038425
+Prev tag size: 5865
+Tag type: 8 - Audio data
+  Data size: 989
+  Timestamp: 5611
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 989
+current: 1039429
+Prev tag size: 1000
+Tag type: 8 - Audio data
+  Data size: 990
+  Timestamp: 5632
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 990
+current: 1040434
+Prev tag size: 1001
+Tag type: 9 - Video data
+  Data size: 2324
+  Timestamp: 5640
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 2324
+current: 1042773
+Prev tag size: 2335
+Tag type: 8 - Audio data
+  Data size: 1015
+  Timestamp: 5653
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1015
+current: 1043803
+Prev tag size: 1026
+Tag type: 8 - Audio data
+  Data size: 1010
+  Timestamp: 5675
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1010
+current: 1044828
+Prev tag size: 1021
+Tag type: 9 - Video data
+  Data size: 3392
+  Timestamp: 5680
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3392
+current: 1048235
+Prev tag size: 3403
+Tag type: 8 - Audio data
+  Data size: 1006
+  Timestamp: 5696
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1006
+current: 1049256
+Prev tag size: 1017
+Tag type: 8 - Audio data
+  Data size: 1047
+  Timestamp: 5717
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1047
+current: 1050318
+Prev tag size: 1058
+Tag type: 9 - Video data
+  Data size: 3769
+  Timestamp: 5720
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3769
+current: 1054102
+Prev tag size: 3780
+Tag type: 8 - Audio data
+  Data size: 1038
+  Timestamp: 5739
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1038
+current: 1055155
+Prev tag size: 1049
+Tag type: 9 - Video data
+  Data size: 3292
+  Timestamp: 5760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 2 - inter frame (for AVC, a non-seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 2 - AVC end of sequence (lower level NALU sequence ender is not required or supported)
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 3292
+current: 1058462
+Prev tag size: 3303
+Tag type: 8 - Audio data
+  Data size: 1062
+  Timestamp: 5760
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1062
+current: 1059539
+Prev tag size: 1073
+Tag type: 8 - Audio data
+  Data size: 1007
+  Timestamp: 5781
+  Timestamp extended: 0
+  StreamID: 0
+  Audio tag:
+    Sound format: 10 - AAC
+    Sound rate: 3 - 44-Khz
+    Sound size: 1 - 16 bit
+    Sound type: 1 - Stereo
+data size: 1007
+current: 1060561
+Prev tag size: 1018
+Tag type: 9 - Video data
+  Data size: 5
+  Timestamp: 5760
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 1 - keyframe (for AVC, a seekable frame)
+    Codec ID: 7 - AVC
+    AVC video tag:
+      AVC packet type: 1 - AVC NALU
+      AVC composition time: 458752
+      AVC nalu length: 16
+data size: 5
+current: 1060581
+Prev tag size: 16
+Tag type: 9 - Video data
+  Data size: 0
+  Timestamp: 0
+  Timestamp extended: 0
+  StreamID: 0
+  Video tag:
+    Frame type: 0 - not defined by standard
+    Codec ID: 0 - not defined by standard
+data size: 0
+
+Finished analyzing
