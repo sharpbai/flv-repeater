@@ -5,9 +5,11 @@ This is a tool for generating flv file repead in any times. Note that you can co
 
 # Compilation
 
-Please clone or download this repository, then execute the scripts below
+Please execute the scripts below
 
 ```
+git clone https://github.com/sharpbai/flv-repeater.git
+cd flv-repeater
 mkdir build
 cd build
 cmake ..
