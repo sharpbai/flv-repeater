@@ -1,16 +1,12 @@
-#
-# @file CMakeLists.txt
-# @author sharpbai
-# @date 2016/07/20
-#
-
-cmake_minimum_required(VERSION 2.8.4)
+#cmake_minimum_required(VERSION 3.5)
 project(flv_repeater)
 
-set(SOURCE_FILES src/main.c src/flv-repeater.c)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-include_directories("/usr/local/include" "${PROJECT_SOURCE_DIR}/deps")
+set(SOURCE_FILES
+    deps/lwlog/lwlog.h
+    src/flv-repeater.c
+    src/flv-repeater.h
+    src/main.c src/file_utils.c)
 
-link_directories("/usr/local/lib")
-
-add_executable(flv_repeater ${SOURCE_FILES})
+add_executable(flv_repeater ${SOURCE_FILES} src/file_utils.c)

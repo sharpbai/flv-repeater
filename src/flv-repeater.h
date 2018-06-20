@@ -24,21 +24,30 @@ typedef struct flv_tag {
   void *data; // will point to an audio_tag or video_tag
 } flv_tag_t;
 
-size_t fread_1(uint8_t *ptr);
-size_t fread_3(uint32_t *ptr);
-size_t fread_4(uint32_t *ptr);
-size_t fread_4s();
-size_t fwrite_1(uint8_t *ptr);
-size_t fwrite_3(uint32_t *ptr);
-size_t fwrite_4(uint32_t *ptr);
+typedef struct globalArgs_t {
+    FILE *infile;
+    FILE *outfile;
+    int verbosity;     /* -v option */
+    size_t startIndex; /* -s option */
+    size_t repeatCount;    /* -r option */
+    int readInFramerate; /* -re option */
+    size_t timestampBase; /* -f option */
+} globalArgs_t;
 
-size_t file_read_write(size_t count);
+size_t fread_1(FILE* fs, uint8_t *ptr);
+size_t fread_3(FILE* fs, uint32_t *ptr);
+size_t fread_4(FILE* fs, uint32_t *ptr);
+size_t fread_4s(FILE* fs);
+size_t fwrite_1(FILE* fs, uint8_t *ptr);
+size_t fwrite_3(FILE* fs, uint32_t *ptr);
+size_t fwrite_4(FILE* fs, uint32_t *ptr);
+
+size_t file_read_write(FILE* fs_read, FILE* fs_write, size_t count, uint8_t* buffer, size_t buffer_length);
 
 flv_tag_t *flv_read_tag(int with_data);
 size_t flv_write_tag(flv_tag_t *tag);
 void flv_free_tag(flv_tag_t *tag);
-void flv_repeater_init(FILE *in_file, FILE *out_file, size_t start_index,
-                       size_t repeat_count);
+void flv_repeater_init(globalArgs_t* globalArgs);
 int flv_repeater_run(void);
 
 #endif // FLV_REPEATER_H_
